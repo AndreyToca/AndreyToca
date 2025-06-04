@@ -62,6 +62,3 @@ Sou proativo, organizado e sempre busco evoluir tanto como programador quanto co
 ---
 
 <br clear="both">
-
-<!-- Cobra animada nos commits (funciona se você configurar o GitHub Pages com esse recurso) -->
-<img src="https://raw.githubusercontent.com/AndreyToca/AndreyAraujo/output/snake.svg" alt="Snake animation" />
