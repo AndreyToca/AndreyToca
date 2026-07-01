@@ -1,107 +1,92 @@
 <h1 align="center">Hi 👋, I'm Andrey Araujo</h1>
-<h3 align="center">💻 Computer Science Student | Back-End Developer</h3>
+
+<h3 align="center">
+Computer Science Student • Back-End Developer • Brazil 🇧🇷
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Back-End+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Computer+Science+Student;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science student.
-
-💼 Currently working as a **Logistics Assistant**.
-
-💻 Passionate about technology and software development.
-
-🚀 Interested in:
-
-- Back-End Development
-- Java & Spring Boot
-- C#
-- Python
-- SQL
-- Embedded Systems
-
-📚 Always learning new technologies and improving my programming skills.
+- 🎓 Computer Science Student
+- 💼 Logistics Assistant
+- 💻 Passionate about Software Development
+- ☕ Studying Java and Spring Boot
+- 🐍 Learning Python
+- ⚙️ Interested in C#
+- 🗄️ Database: MySQL & SQL Server
+- 🚀 Always improving my programming skills
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Technologies
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreyToca&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,python,javascript,typescript,react,html,css,mysql,git,github,vscode,idea"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyToca&layout=compact&theme=dracula"/>
-
-</div>
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AndreyToca&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyToca&theme=github-compact"/>
 
-</div>
-
----
-
-## 💻 Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,cs,python,js,ts,react,html,css,mysql,git,github,vscode,idea"/>
-
-</div>
+</p>
 
 ---
 
-## 📚 Currently Learning
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,docker,linux"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AndreyToca&theme=algolia&no-frame=true&column=4"/>
 
-</div>
+</p>
 
 ---
 
-## 🌎 Connect with me
+# 📫 Connect with me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/andrey-alexandre-araujo-80830b249/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="mailto:andreyalexandre12@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/andrey_toca/" target="_blank">
+<a href="https://www.linkedin.com/in/andrey-alexandre-araujo-80830b249">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/andrey_toca">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AndreyToca/AndreyToca/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-<div align="center">
+# 🐍 Contributions Snake
 
-### ⭐ Thanks for visiting my profile!
+> **Atenção:** para a cobra funcionar, é necessário configurar um GitHub Action.
 
-*"Code, learn, improve, repeat."*
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndreyToca/AndreyToca/output/snake.svg"/>
+</p>
+```
 
-</div>
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
