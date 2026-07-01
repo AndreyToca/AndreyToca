@@ -1,68 +1,68 @@
 <h1 align="center">Hi 👋, I'm Andrey Araujo</h1>
 
 <h3 align="center">
-Computer Science Student • Back-End Developer • Brazil 🇧🇷
+Computer Science Student • Java Back-End Developer • Brazil 🇧🇷
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Computer+Science+Student;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Java+Back-End+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Student
 - 💼 Logistics Assistant
-- 💻 Passionate about Software Development
-- ☕ Studying Java and Spring Boot
-- 🐍 Learning Python
-- ⚙️ Interested in C#
-- 🗄️ Database: MySQL & SQL Server
+- ☕ Studying Java & Spring Boot
+- 🗄️ Learning SQL and Databases
+- 💻 Passionate about Back-End Development
 - 🚀 Always improving my programming skills
 
 ---
 
-# 🚀 Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,python,javascript,typescript,react,html,css,mysql,git,github,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,python,mysql,git,github,docker,linux,html,css,javascript,vscode,idea"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AndreyToca&theme=github-compact"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AndreyToca&theme=algolia&no-frame=true&column=4"/>
-
-</p>
+- Spring Boot
+- Docker
+- REST APIs
+- SQL Server
+- Software Architecture
 
 ---
 
-# 📫 Connect with me
+## 📌 Featured Projects
+
+🔹 Java Projects
+
+🔹 Spring Boot APIs
+
+🔹 SQL Exercises
+
+🔹 College Projects
+
+---
+
+## 📫 Contact
 
 <p align="center">
 
 <a href="mailto:andreyalexandre12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/andrey-alexandre-araujo-80830b249">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/andrey_toca">
@@ -73,20 +73,12 @@ Computer Science Student • Back-End Developer • Brazil 🇧🇷
 
 ---
 
-# 🐍 Contributions Snake
-
-> **Atenção:** para a cobra funcionar, é necessário configurar um GitHub Action.
-
-```html
 <p align="center">
-<img src="https://raw.githubusercontent.com/AndreyToca/AndreyToca/output/snake.svg"/>
+<img src="https://komarev.com/ghpvc/?username=AndreyToca&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
-```
 
 ---
 
-<p align="center">
-
+<h3 align="center">
 ⭐ Thanks for visiting my profile!
-
-</p>
+</h3>
