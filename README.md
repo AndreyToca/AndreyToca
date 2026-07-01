@@ -1,64 +1,107 @@
-<h2 align="left">Hi 👋! My name is Andrey and I'm from Brazil!</h2>
+<h1 align="center">Hi 👋, I'm Andrey Araujo</h1>
+<h3 align="center">💻 Computer Science Student | Back-End Developer</h3>
 
-### 👨‍💻 Sobre mim
-
-Sou apaixonado por tecnologia e atualmente estudo **Ciência da Computação**.  
-Tenho interesse em desenvolvimento **Back-End**, **sistemas embarcados** e em aprender novas tecnologias.  
-Sou proativo, organizado e sempre busco evoluir tanto como programador quanto como pessoa.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Back-End+Developer;Always+learning+new+technologies!" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+🎓 Computer Science student.
+
+💼 Currently working as a **Logistics Assistant**.
+
+💻 Passionate about technology and software development.
+
+🚀 Interested in:
+
+- Back-End Development
+- Java & Spring Boot
+- C#
+- Python
+- SQL
+- Embedded Systems
+
+📚 Always learning new technologies and improving my programming skills.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreyToca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreyToca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AndreyToca&show_icons=true&theme=dracula&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyToca&layout=compact&theme=dracula"/>
+
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" />
+## 🔥 GitHub Streak
 
-### 💻 Tecnologias que uso
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+<img src="https://streak-stats.demolab.com?user=AndreyToca&theme=dracula"/>
+
 </div>
 
 ---
 
-### 🌐 Contato
+## 💻 Technologies
 
-<div align="left">
-  <a href="https://www.instagram.com/andrey_toca/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
+<div align="center">
 
-  <a href="https://discord.com/users/SEU_ID_AQUI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,spring,cs,python,js,ts,react,html,css,mysql,git,github,vscode,idea"/>
 
-  <a href="mailto:andreyalexandre12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/andrey-alexandre-araujo-80830b249/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
 </div>
 
 ---
 
-<br clear="both">
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,docker,linux"/>
+
+</div>
+
+---
+
+## 🌎 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/andrey-alexandre-araujo-80830b249/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:andreyalexandre12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/andrey_toca/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AndreyToca/AndreyToca/output/snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code, learn, improve, repeat."*
+
+</div>
